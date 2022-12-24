@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 //import RenderLeader from './components/renderLeader';
 import { Loading } from '../components/Loadingcomponent'
 import { baseUrl } from '../shared/baseUrl'
+// import { baseUrl } from '../shared/baseUrl'
 import { FadeTransform, Fade, Stagger } from 'react-animation-components'
 
 function RenderLeader({leader}) {
